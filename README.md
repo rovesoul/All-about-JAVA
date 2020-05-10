@@ -7,3 +7,5 @@
 - git remote add origin https://github.com/rovesoul/All-about-JAVA.git
 - git push -u origin master
 - git push -f origin master
+
+# 其他内容
