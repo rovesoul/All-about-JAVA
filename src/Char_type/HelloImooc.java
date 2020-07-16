@@ -48,7 +48,7 @@ public class HelloImooc {
 
 //        评分系统
 //        1.使用数组存储正确的答案
-        char[] answer={'A','B','C','D'};
+        char[] answer={'A','B','C','D','E'};
 //        2.存储我们录入的答案
         char[] youAn = new char[answer.length];
         Scanner sc = new Scanner(System.in);

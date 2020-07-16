@@ -18,3 +18,4 @@ public class ReadBook1 {
         System.out.println("Hello, " + name +". 性别:"+sex+". Next year, you'll be " + (age + 1)+ ". 身高是:"+ tall);
     }
 }
+
